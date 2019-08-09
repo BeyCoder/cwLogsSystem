@@ -1,0 +1,8 @@
+name: cwLogsSystem_src
+main: BeyCoder\LogsSystem
+author: BeyCoder
+version: "1.0"
+load: POSTWORLD
+api:
+  - 2.0.0
+  - 3.0.0
